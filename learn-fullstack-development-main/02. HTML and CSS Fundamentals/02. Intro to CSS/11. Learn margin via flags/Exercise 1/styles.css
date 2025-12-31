@@ -8,11 +8,14 @@ body {
     /*Challenge:
     Add 100px of margin on the bottom of the red box. */
     
+    
 }
 
 .blue {
     background: #0d1b88;
     height: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .green {
